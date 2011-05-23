@@ -1,4 +1,6 @@
-# everything goes to phpinfo()
+# Web server paths
+document_root: /
+index_list: [phpinfo.php]
 default_gateway: phpinfo.php
 
 # PHP Extensions available for PHP 5.3.6
